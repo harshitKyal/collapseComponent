@@ -1,0 +1,27 @@
+ .container {
+     margin:auto;
+     margin: 10%;
+}
+ h3{
+     text-align: center;
+     color: white;
+     font-family: "Times New Roman";
+     letter-spacing: 0.1em;
+}
+ h2{
+     color: black;
+     text-align: center;
+}
+ #collapseHead , #collapseHead1 , #collapseHead2 ,#collapseHead3{
+     cursor: grab;
+     background-color: blue;
+     margin-bottom: 2px;
+     border:1px solid black;
+}
+ #collapseBody , #collapseBody1 , #collapseBody2,#collapseBody3 {
+     height: 25vh;
+     background-color: white;
+     border:1px solid black;
+     padding: 10px;
+     box-shadow: 5px 10px;
+}
